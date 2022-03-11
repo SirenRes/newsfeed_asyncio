@@ -5,3 +5,7 @@ Required :
 Feedparser
 
 Python 3.4 and above
+
+Usage :
+
+Just copy & paste the URL link to the variable that i specified there.
