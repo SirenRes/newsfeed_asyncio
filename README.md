@@ -8,4 +8,4 @@ Python 3.4 and above
 
 Usage :
 
-Just copy & paste the URL link to the variable in RSSfeed.py that i specified there.
+Just copy & paste the URL link to the variable in RSSfeed.py that i specified there, save and close the file then run the config.py.
