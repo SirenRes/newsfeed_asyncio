@@ -2,7 +2,6 @@ from itertools import count
 import datetime
 import feedparser
 import asyncio
-from RSSfeed import url_link
 
 rssfeeds = list()
 
